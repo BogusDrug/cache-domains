@@ -50,6 +50,4 @@ cdn.mileweb.cs.steampowered.com.8686c.com
 cdn.dota2.com.cn
 1375176.s8.baishan-cloud.com
 *.gslb.ksyuncdn.com
-*.g1.akamai.net
-1375176.s8.baishan-cloud.com
 wsall.steampowered.com.8686c.com.mwcname.com
